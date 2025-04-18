@@ -4,6 +4,7 @@
   font-family: sans-serif;
 }
 
+
 .CONTAINER {
   place-items: center;
   margin-top: 100px;
@@ -23,10 +24,11 @@ table {
   border-collapse: collapse;
 }
 .table th {
-  background-color: rgb(143 140 140);
+  background-color: rgb(109 110 107);
+  ;
 }
 .fixed-color {
-  background-color: rgb(103 139 153);
+  background-color: rgb(162 211 230);
 }
 .Hover-colour {
   transition: all 0.3s ease;
