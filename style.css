@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+.CONTAINER {
+  place-items: center;
+  margin-top: 100px;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 32px;
+  margin-top: 12px;
+  text-decoration: underline;
+}
+table {
+  width: 1100px;
+  font-size: 23px;
+  text-align: start;
+  border: 1px solid black;
+  border-spacing: 18px;
+  border-collapse: collapse;
+}
+.table th {
+  background-color: rgb(143 140 140);
+}
+.fixed-color {
+  background-color: rgb(103 139 153);
+}
+.Hover-colour {
+  transition: all 0.3s ease;
+}
+.Hover-colour:hover {
+  background-color: rgb(159, 143, 78);
+}
+
+th,
+td {
+  text-align: start;
+  padding: 12px;
+
+  border: 1px solid black;
+}
